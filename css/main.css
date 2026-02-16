@@ -966,8 +966,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #793ea5;
-  border-color: #793ea5;
+  background: #ee7a02;
+  border-color: #ee7a02;
   color: #FFFFFF;
 }
 
@@ -981,8 +981,8 @@ button.btn--primary:focus,
 input[type="submit"].btn--primary:focus,
 input[type="reset"].btn--primary:focus,
 input[type="button"].btn--primary:focus {
-  background: #6b3792;
-  border-color: #6b3792;
+  background: #a85700;
+  border-color: #a85700;
 }
 
 /* button modifiers
@@ -1434,7 +1434,7 @@ body.menu-is-open {
   line-height: 1.333;
   text-transform: uppercase;
   letter-spacing: .25rem;
-  color: #793ea5;
+  color: #ee7a02;
   margin-top: 0;
   margin-bottom: 3rem;
   position: relative;
@@ -1723,7 +1723,7 @@ body.menu-is-open {
   margin-bottom: 7.2rem;
   margin-top: 1.2rem;
   padding-right: 140px;
-  color: #793ea5;
+  color: #ea7b00;
   position: relative;
 }
 
@@ -1732,7 +1732,7 @@ body.menu-is-open {
   display: block;
   height: 1px;
   width: 110px;
-  background-color: #793ea5;
+  background-color: #ea7b00;
   position: absolute;
   top: 50%;
   right: 0;
@@ -1790,11 +1790,11 @@ body.menu-is-open {
 }
 
 .header-nav__list a:hover::before {
-  color: #793ea5;
+  color: #ea7b00;
 }
 
 .header-nav__list .current a::before {
-  color: #793ea5;
+  color: #ea7b00;
 }
 
 .header-nav__social {
@@ -2894,7 +2894,7 @@ html.no-csstransitions .home-content__main {
 
 .item-service__icon {
   float: left;
-  color: #793ea5;
+  color: #ee7a02;
   font-size: 4.5rem;
   margin-top: -1.8rem;
 }
@@ -3603,7 +3603,7 @@ html.no-csstransitions .home-content__main {
 .s-contact {
   padding-top: 16.2rem;
   padding-bottom: 21rem;
-  background-color: #5e3080;
+  background-color: #232325;
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   position: relative;
@@ -3626,7 +3626,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-contact .subhead {
-  color: #2a1538;
+  color: #ee7a02;;
 }
 
 .s-contact .section-header,
@@ -3821,7 +3821,7 @@ footer {
   padding-top: 9rem;
   padding-bottom: 6rem;
   color: rgba(255, 255, 255, 0.6);
-  background-color: #5e3080;
+  background-color: #232325;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   text-align: center;
   position: relative;
@@ -3852,7 +3852,7 @@ footer a {
 
 .ss-go-top a {
   color: #FFFFFF;
-  background-color: #351b48;
+  background-color: #3d3d3f;
   text-align: center;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
@@ -3891,7 +3891,7 @@ footer a {
 
 .ss-go-top a:hover,
 .ss-go-top a:focus {
-  background-color: #2d173d;
+  background-color: #252525;
 }
 
 /* ------------------------------------------------------------------- 
